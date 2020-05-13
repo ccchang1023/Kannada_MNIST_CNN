@@ -4,3 +4,6 @@ Train & test code for Kaggle competition: Kannada MNIST (https://www.kaggle.com/
 #### Rank(1214 teams in total): 
 - Public dataset: 6(top 1%)
 - Private dataset: 5(top 1%)
+
+#### 5th place solution details:
+https://www.kaggle.com/c/Kannada-MNIST/discussion/122160
